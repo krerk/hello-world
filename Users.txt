@@ -9,6 +9,7 @@ panjapol.l@motiftech.com
 sittikorn.c@motiftech.com
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 natpapat.k@motiftech.com
 sutthidet.s@motiftect.com
@@ -55,3 +56,6 @@ pilai.p@motiftech.com
 adisak.s@motiftech.com
 kanchana.beero@gmail.com
 >>>>>>> origin/orioat
+=======
+natpapat.k@motiftech.com
+>>>>>>> no message
