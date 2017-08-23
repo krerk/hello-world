@@ -5,7 +5,7 @@ torgan.p@motiftech.com
 korakot.p@motiftech.com
 adichart.c@motiftech.com
 nawarin.i@motiftech.com
-panjapol.l@motiftech.com
+panjapol.l@motiftech.com(Panjapol Lomarat)
 sittikorn.c@motiftech.com
 natpapat.k@motiftech.com
 sutthidet.s@motiftect.com
@@ -44,3 +44,5 @@ nuttapong.r@motiftech.com
 pilai.p@motiftech.com
 adisak.s@motiftech.com
 kanchana.beero@gmail.com
+
+edit by ploy
